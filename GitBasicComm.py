@@ -1,7 +1,6 @@
-int sex 
-str text="commandos  de git, que locura mi gente no joda "
+int sex=10
 str text="commandos basicos de git"
+str lorem="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-nose que esta pasando mi gente de verdad 
-
-
+print(lorem)
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
