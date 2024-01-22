@@ -6,6 +6,6 @@ if(n1%2==0):
 else if: 
     print("no es par")
     else if(n1=="")
-    print("objeto vacio ingrese un numero")
+    print("campo vacio ingrese un numero")
 
 
