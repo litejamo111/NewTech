@@ -5,7 +5,7 @@ if(n1%2==0):
     print("es par")
 else if: 
     print("no es par")
-    else if(n1=="")
+    else if(n2=="")
     print("campo vacio ingrese un numero")
 
 
