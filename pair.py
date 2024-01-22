@@ -3,9 +3,11 @@ n2=input("ingrese un numero par")
 n3 =3
 if(n1%2==0):
     print("es par")
-else if: 
+elif: 
     print("no es par")
-    else if(n2=="")
+    elif: (n2=="")
     print("campo vacio ingrese un numero")
+    else:
+        print("error")
 
 
